@@ -39,10 +39,10 @@ const VideoPinSection = () => {
         <video src="/videos/pin-video.mp4" playsInline muted loop autoPlay />
 
         <div className="abs-center md:scale-100 scale-200">
-          <img src="/shifty-drink/images/circle-text.svg" alt="" className="spin-circle" />
+          <img src="/images/circle-text.svg" alt="" className="spin-circle" />
           <div className="play-btn">
             <img
-              src="/shifty-drink/images/play.svg"
+              src="/images/play.svg"
               alt=""
               className="size-[3vw] ml-[.5vw]"
             />

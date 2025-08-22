@@ -68,19 +68,19 @@ const HeroSection = () => {
           <>
             {isMobile && (
               <img
-                src="/shifty-drink/images/hero-bg.png"
+                src="/images/hero-bg.png"
                 className="absolute bottom-40 size-full object-cover"
               />
             )}
             <img
-              src="/shifty-drink/images/hero-img.png"
+              src="/images/hero-img.png"
               className="absolute bottom-0 left-1/2 -translate-x-1/2"
               style={{ width: "390px", height: "430px", objectFit: "contain" }}
             />
           </>
         ) : (
           <video
-            src="/shifty-drink/videos/hero-bg.mp4"
+            src="/videos/hero-bg.mp4"
             autoPlay
             muted
             playsInline

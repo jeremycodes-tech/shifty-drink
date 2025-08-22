@@ -72,19 +72,19 @@ const FlavorSlider = () => {
             className={`relative z-30 lg:w-[50vw] w-96 lg:h-[70vh] md:w-[90vw] md:h-[50vh] h-80 flex-none ${flavor.rotation}`}
           >
             <img
-              src={`/shifty-drink/images/${flavor.color}-bg.svg`}
+              src={`/images/${flavor.color}-bg.svg`}
               alt=""
               className="absolute bottom-0"
             />
 
             <img
-              src={`/shifty-drink/images/${flavor.color}-drink.png`}
+              src={`/images/${flavor.color}-drink.png`}
               alt=""
               className="drinks"
             />
 
             <img
-              src={`/shifty-drink/images/${flavor.color}-elements.png`}
+              src={`/images/${flavor.color}-elements.png`}
               alt=""
               className="elements"
             />
