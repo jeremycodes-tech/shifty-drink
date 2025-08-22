@@ -41,7 +41,7 @@ const nutrientLists = [
 
 const cards = [
   {
-    src: "/shifty-drink/shifty-drink/videos/f1.mp4",
+    src: "//shifty-drink/images//videos/f1.mp4",
     rotation: "rotate-z-[-10deg]",
     name: "Madison",
     img: "/shifty-drink/images/p1.png",
@@ -81,7 +81,7 @@ const cards = [
     translation: "translate-y-[5%]",
   },
   {
-    src: "/shifty-drink/shifty-drink/videos/f7.mp4",
+    src: "//shifty-drink/images//videos/f7.mp4",
     rotation: "rotate-z-[-3deg]",
     name: "Melisa",
     img: "/shifty-drink/images/p7.png",
