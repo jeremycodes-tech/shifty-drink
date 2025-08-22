@@ -41,7 +41,7 @@ const nutrientLists = [
 
 const cards = [
   {
-    src: "//images//videos/f1.mp4",
+    src: "/images/f1.mp4",
     rotation: "rotate-z-[-10deg]",
     name: "Madison",
     img: "/images/p1.png",
@@ -81,7 +81,7 @@ const cards = [
     translation: "translate-y-[5%]",
   },
   {
-    src: "//images//videos/f7.mp4",
+    src: "/videos/f7.mp4",
     rotation: "rotate-z-[-3deg]",
     name: "Melisa",
     img: "/images/p7.png",
